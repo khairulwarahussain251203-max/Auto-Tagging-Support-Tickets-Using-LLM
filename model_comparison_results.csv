@@ -1,0 +1,4 @@
+Approach,Accuracy,Training Required,Inference Speed,Model Size
+Zero-shot,0.53,No,Fast,Large (BART)
+Few-shot,0.72,No (with examples),Slow,Large (GPT-2)
+Fine-tuned,0.6,Yes,Fast,Medium (BERT)
