@@ -39,9 +39,8 @@ This project implements an automated support ticket tagging system using **Large
 
 ```text
 Auto Tagging Support Tickets/
-├── Auto_tagging_support_tickets.ipynb    # Main development notebook
+├── code.ipynb    # Main development notebook
 ├── README.md                             # Project documentation
-├── requirements.txt                      # Dependencies
 │
 ├── fine_tuned_bert/                      # Local storage for weights
 │   ├── config.json
@@ -53,8 +52,7 @@ Auto Tagging Support Tickets/
 │   ├── bert_confusion_matrix.png
 │   ├── model_comparison_detailed.png
 │   └── radar_comparison.png
-│
-└── logs/                                 # Training telemetry
+
 
 ```
 
