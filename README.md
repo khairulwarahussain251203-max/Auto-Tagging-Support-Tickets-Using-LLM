@@ -39,7 +39,7 @@ This project implements an automated support ticket tagging system using **Large
 
 ```text
 Auto Tagging Support Tickets/
-├── code.ipynb    # Main development notebook
+├── code.ipynb                            # Main development notebook
 ├── README.md                             # Project documentation
 │
 ├── fine_tuned_bert/                      # Local storage for weights
